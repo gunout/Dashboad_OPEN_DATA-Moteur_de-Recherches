@@ -15,8 +15,13 @@
 
     pip install streamlit pandas numpy plotly requests folium streamlit-folium
 
-# RUN PROGRAM 
+# RUN PROGRAM ( Premiere Version ) 
+
+    streamlit run DashboardV1.py
+
+# RUN PROGRAM ( Temps réels - upgrade ) 
 
     streamlit run Dashboard.py
+
 
 By Gleaphe 2025 .
